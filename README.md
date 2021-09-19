@@ -1,5 +1,5 @@
 # Calculator
-A Calculator to calculate mathematical expression
+A calculator to calculate mathematical expression
 
 It is a console-based program running on .Net Framework 4.7.2
 
